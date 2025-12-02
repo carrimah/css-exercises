@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.first{
+    background-color: black;
+    color: white;
+}
+
+.second{
+    background-color: yellow;
+}
+
+.both{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/*Oh... the goal here was not to create a 3rd CSS class but use both "grouped." Got it. */
